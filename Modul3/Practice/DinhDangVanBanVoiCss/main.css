@@ -1,0 +1,18 @@
+a{
+  text-decoration: none
+}
+sup{
+  font-size: 80%;
+}
+a:hover{
+  color: blue;
+  text-decoration: underline;
+}
+a:active{
+  color: red;
+  text-decoration: none;
+}
+a:visited{
+  color: #3c61b4;
+  text-decoration: underline;
+}
