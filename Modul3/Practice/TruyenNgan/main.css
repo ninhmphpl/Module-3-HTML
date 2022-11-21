@@ -1,0 +1,16 @@
+.header-page{
+  color: white;
+  background: deeppink;
+  text-align: center;
+  border-radius: 4px;
+}
+.header-page a {
+  color: white;
+  text-decoration: none
+}
+a:hover{
+  text-decoration: underline;
+}
+.indent{
+  text-indent: 1.5em;
+}
